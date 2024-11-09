@@ -1,9 +1,47 @@
 body {
-    background-color: bisque;
+    background-color: khaki;
     font-family: Helvetica, sans-serif;
 }
 
 #arrow {
     width: 45px;
     height: auto;
+}
+
+h1 {
+    text-align: center;
+}
+
+#card {
+    padding: 10px;
+    text-align: left;
+    background-color: #fff;
+    width: 100x;
+    height: auto;
+    margin: 0 auto;
+}
+
+.list-style {
+    list-style-type: disc;
+}
+
+img {
+    margin: 0 auto;
+}
+
+#card-2 {
+    padding: 8px;
+    background-color: lemonchiffon;
+}
+
+ul {
+    list-style-type: none;
+}
+
+li {
+    font-size: 20px;
+}
+
+a {
+    color: peru;
 }
